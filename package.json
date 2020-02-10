@@ -8,7 +8,7 @@
     "watch:scss":"nodemon -e scss -x \"npm run comp:scss\""
   },
   "keywords": [],
-  "author": "Alok Sharma",
+  "author": "Alok Sharma", 
   "license": "ISC",
   "devDependencies": {
     "node-sass": "^4.13.1",
